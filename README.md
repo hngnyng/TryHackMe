@@ -1,22 +1,14 @@
-# TryHackMe: Free Cybersecurity Path
+# TryHackMe: Ae's Cybersecurity Path
 
-This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain. 
+This template is created by <b>migueltc13</b>! I'm using this to keep track of the content I have completed 😊.
+
+<i>This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain.</i>
 
 It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
 
 Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.
 
 Upon completion, you will have established a robust foundation in cybersecurity, equipping you with the knowledge and expertise necessary to tackle advanced challenges and real-world situations.
-
-<details>
-  <summary>
-    <b>Instructions</b>
-  </summary>
-
-  You can find instructions on how to use this repository at [INSTRUCTIONS.md](/INSTRUCTIONS.md).
-</details>
-
-<br/>
 
 <!-- ☐ -->
 <!-- ☐ -->
@@ -119,6 +111,7 @@ Upon completion, you will have established a robust foundation in cybersecurity,
 <!-- | ☐      | [CC Steganography](https://tryhackme.com/room/ccstego)                   | Reverse Engineering |                                          | -->
 <!-- | ☐      | [Reverse Engineering](https://tryhackme.com/room/reverseengineering)     | Reverse Engineering |                                          | -->
 
+<!--
 <details>
   <summary>
     <b>Completed the above? You can:</b>
@@ -130,3 +123,4 @@ Upon completion, you will have established a robust foundation in cybersecurity,
   - Join the TryHackMe King of the Hill (KOTH) challenges, check out my [KOTH toolkit repository](https://github.com/migueltc13/KoTH-Tools), for a collection of tools and scripts to help you win.
   - Sign up to other platforms such as [CTF time](https://ctftime.org/) and take part in competitive CTFs.
 </details>
+-->
