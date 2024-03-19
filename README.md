@@ -2,7 +2,7 @@
 
 This template is created by <b>migueltc13</b>! I'm using this to keep track of the content I have completed 😊.
 
-============================================================================================
+===========================================================================
 
 Notes by <b>migueltc13</b>:
 
@@ -17,7 +17,7 @@ Notes by <b>migueltc13</b>:
 <!-- ☐ -->
 <!-- ☐ -->
 
-| Status | Room Title                                                                    | Category            | Write-up                                 |
+| Status | Room Title                                                                    | Category            | Notes                                |
 | ---    | ---                                                                           | ---                 | ---                                      |
 | ✔      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
 | ☐      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
