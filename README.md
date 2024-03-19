@@ -2,13 +2,14 @@
 
 This template is created by <b>migueltc13</b>! I'm using this to keep track of the content I have completed 😊.
 
-<i>This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain.</i>
+Notes by <b>migueltc13</b>:
+<i>[This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain.</i>
 
-It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost.
+<i>It offers a diverse selection of practical exercises, introductory CTFs, and educational modules that encompass a broad spectrum of topics, including OpenVPN, Linux fundamentals, web scanning, and Metasploit, all available at no cost. </i>
 
-Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.
+<i>Suitable for individuals new to the field or those seeking to refine their existing skills, this learning path provides a valuable resource for all.</i>
 
-Upon completion, you will have established a robust foundation in cybersecurity, equipping you with the knowledge and expertise necessary to tackle advanced challenges and real-world situations.
+<i>Upon completion, you will have established a robust foundation in cybersecurity, equipping you with the knowledge and expertise necessary to tackle advanced challenges and real-world situations.]</i>
 
 <!-- ☐ -->
 <!-- ☐ -->
