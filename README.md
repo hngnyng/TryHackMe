@@ -2,6 +2,8 @@
 
 This template is created by <b>migueltc13</b>! I'm using this to keep track of the content I have completed 😊.
 
+===================================================================================================================================================================================================================================================================
+
 Notes by <b>migueltc13</b>:
 
 <i>[This comprehensive [TryHackMe](https://tryhackme.com) learning path is designed to guide you from a novice to an expert within the cybersecurity domain.</i>
