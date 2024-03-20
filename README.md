@@ -20,7 +20,7 @@ Notes by <b>migueltc13</b>:
 | Status | Room Title                                                                    | Category            | Notes                                |
 | ---    | ---                                                                           | ---                 | ---                                      |
 | ✔      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
-| ☐      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
+| ✔      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
 | ☐      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               | [done](write-ups/level1/Welcome)         |
 | ☐      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
 | ☐      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
