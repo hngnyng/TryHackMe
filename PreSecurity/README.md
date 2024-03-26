@@ -1,24 +1,16 @@
 ### Path: Pre-Security
 
-| Status | Room Title                                                                    | Category            | Notes                                |
+| Status | Title                                                                    | Category            | Notes                                |
 | ---    | ---                                                                           | ---                 | ---                                      |
-| ✔      | [Tutorial](https://tryhackme.com/room/tutorial)                               | Intro               |                                          |
-| ✔      | [OpenVPN](https://tryhackme.com/room/openvpn)                                 | Intro               |                                          |
-| ✔      | [Welcome](https://tryhackme.com/jr/welcome)                                   | Intro               |                                          |
-| ☐      | [Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec) | Intro               |                                          |
-| ✔      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
-| ✔      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
-| ☐      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
-| ☐      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
-| ☐      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
-| ☐      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
-| ☐      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          |
-| ☐      | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals)       | Intro               |                                          |
-| ☐      | [Tmux](https://tryhackme.com/room/rptmux)                                     | Tooling             |                                          |
-| ☐      | [Nmap](https://tryhackme.com/room/furthernmap)                                | Tooling             |                                          |
-| ☐      | [Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)        | Tooling             |                                          |
-| ☐      | [Hydra](https://tryhackme.com/room/hydra)                                     | Tooling             |                                          |
-| ☐      | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)                      | Tooling             | [done](write-ups/level2/Linux%20PrivEsc) |
+| ☐      | [Intro to offensive security](https://tryhackme.com/room/introtooffensivesecurity)      | Intro to cyber sec               |                                          |
+| ☐      | [Intro to defensive Security](https://tryhackme.com/room/defensivesecurity)             | Intro to cyber sec             |                                          |
+| ☐      | [Careers in Cyber](https://tryhackme.com/jr/careersincyber)                             | Intro to cyber sec              |                                          |
+| ☐      | [What is Networking](https://tryhackme.com/jr/whatisnetworking)                         | Network Fundamentals               |                                          |
+| ☐      | [Intro to LAN](https://tryhackme.com/jr/introtolan)                                     | Network Fundamentals               |                                          |
+| ☐      | [OSI Model]([https://tryhackme.com/room/googledorking](https://tryhackme.com/jr/osimodelzi))        | Network Fundamentals               |                                          |
+| ☐      | [Packets and Frames](https://tryhackme.com/jr/packetsframes)                   | Network Fundamentals               |                                          |
+| ☐      | [Extend your network](https://tryhackme.com/jr/extendingyournetwork)             | Network Fundamentals               |                                          |
+ups/level2/Linux%20PrivEsc) |
 | ☐      | [Shodan.io](https://tryhackme.com/room/shodan)                                | Tooling             |                                          |
 | ☐      | [RustScan](https://tryhackme.com/room/rustscan)                               | Tooling             | [done](write-ups/level2/RustScan)        |
 | ☐      | [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)          | Tooling             |                                          |
