@@ -1,4 +1,4 @@
-### Path: Pre-Security
+### Path: Pre-Security(https://tryhackme.com/paths)
 
 | Status | Title                                                                    | Category            | Notes           |
 | ---    | ---                                                                      | ---                 | ---             |
