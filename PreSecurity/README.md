@@ -7,7 +7,7 @@
 | ☐  | [Careers in Cyber](https://tryhackme.com/jr/careersincyber)                             | Intro to cyber sec               |
 | ☐  | [What is Networking](https://tryhackme.com/jr/whatisnetworking)                         | Network Fundamentals             |
 | ☐  | [Intro to LAN](https://tryhackme.com/jr/introtolan)                                     | Network Fundamentals             |
-| ☐  | [OSI Model]([https://tryhackme.com/room/googledorking](https://tryhackme.com/jr/osimodelzi))        | Network Fundamentals |
+| ☐  | [OSI Model](https://tryhackme.com/jr/osimodelzi)                                      | Network Fundamentals               |
 | ☐  | [Packets and Frames](https://tryhackme.com/jr/packetsframes)                          | Network Fundamentals               |
 | ☐  | [Extend your network](https://tryhackme.com/jr/extendingyournetwork)                  | Network Fundamentals               |   | ☐  | [Shodan.io](https://tryhackme.com/room/shodan)                                | Tooling             |
 | ☐  | [RustScan](https://tryhackme.com/room/rustscan)                               | Tooling             |
