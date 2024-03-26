@@ -1,4 +1,4 @@
-# TryHackMe: Ae's Cybersecurity Path
+# Path: Pre-Security
 
 | Status | Room Title                                                                    | Category            | Notes                                |
 | ---    | ---                                                                           | ---                 | ---                                      |
