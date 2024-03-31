@@ -4,7 +4,7 @@
 | ---    | ---                                                                      | ---                 | ---             |
 | ✔  | [Intro to offensive security](https://tryhackme.com/room/introtooffensivesecurity)      | Intro to cyber sec          
 | ✔  | [Intro to defensive Security](https://tryhackme.com/room/defensivesecurity)             | Intro to cyber sec          
-| ☐  | [Careers in Cyber](https://tryhackme.com/jr/careersincyber)                             | Intro to cyber sec          
+| ✔  | [Careers in Cyber](https://tryhackme.com/jr/careersincyber)                             | Intro to cyber sec          
 | ✔  | [What is Networking](https://tryhackme.com/jr/whatisnetworking)                         | Network Fundamentals        
 | ✔  | [Intro to LAN](https://tryhackme.com/jr/introtolan)                                     | Network Fundamentals        
 | ☐  | [OSI Model](https://tryhackme.com/jr/osimodelzi)                                        | Network Fundamentals        
