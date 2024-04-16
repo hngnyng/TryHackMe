@@ -2,7 +2,7 @@
 
 This template is created by <b>migueltc13</b>! I'm using this to keep track of the content I have completed 😊.
 
-===========================================================================
+=========================================================================
 
 Notes by <b>migueltc13</b>:
 
