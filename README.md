@@ -26,7 +26,7 @@ Notes by <b>migueltc13</b>:
 | ✔      | [Intro to Researching](https://tryhackme.com/room/introtoresearch)            | Intro               |                                          |
 | ✔      | [Google Dorking](https://tryhackme.com/room/googledorking)                    | Intro               |                                          |
 | ✔      | [The Hacker Methodology](https://tryhackme.com/room/hackermethodology)        | Intro               |                                          |
-| ☐      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
+| ✔      | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)  | Intro               |                                          |
 | ☐      | [Linux Fundamentals](https://tryhackme.com/module/linux-fundamentals)         | Intro               |                                          |
 | ☐      | [Windows Fundamentals](https://tryhackme.com/module/windows-fundamentals)     | Intro               |                                          |
 | ☐      | [Principles of Security](https://tryhackme.com/room/principlesofsecurity)     | Intro               |                                          |
